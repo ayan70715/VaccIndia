@@ -1,0 +1,496 @@
+{
+    "hospitals": [
+        {
+            "hospital_name": "Central Hospital",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Emily Rogers": {
+                    "schedule": ["9:00 AM - 10:00 AM", "1:30 PM - 2:30 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "MD"
+                },
+                "George Harrison": {
+                    "schedule": ["11:00 AM - 12:00 PM", "3:00 PM - 4:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "8 years",
+                    "degrees": "DO, PhD"
+                },
+                "Fiona Williams": {
+                    "schedule": ["10:30 AM - 11:30 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "3 years",
+                    "degrees": "MBBS, MSc"
+                },
+                "James Carter": {
+                    "schedule": ["8:00 AM - 9:00 AM", "2:00 PM - 3:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "6 years",
+                    "degrees": "MD, MPhil, MBBS"
+                }
+            }
+        },
+        {
+            "hospital_name": "Maple Grove Clinic",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Hannah Mitchell": {
+                    "schedule": ["9:30 AM - 10:30 AM", "2:30 PM - 3:30 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "4 years",
+                    "degrees": "MBBS"
+                },
+                "Kevin Taylor": {
+                    "schedule": ["11:30 AM - 12:30 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "7 years",
+                    "degrees": "MD, DNB"
+                },
+                "Laura Knight": {
+                    "schedule": ["1:00 PM - 2:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "2 years",
+                    "degrees": "DO, MBBS, MSc"
+                },
+                "Daniel Scott": {
+                    "schedule": ["10:00 AM - 11:00 AM", "3:00 PM - 4:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "MD, MPhil, DNB, PhD"
+                }
+            }
+        },
+        {
+            "hospital_name": "Willow Springs Medical Center",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Avery Walker": {
+                    "schedule": ["9:00 AM - 10:00 AM", "1:30 PM - 2:30 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "MD, MBBS"
+                },
+                "David Harris": {
+                    "schedule": ["10:30 AM - 11:30 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "3 years",
+                    "degrees": "MBBS, DNB, PhD"
+                },
+                "Sophia Brown": {
+                    "schedule": ["12:00 PM - 1:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "6 years",
+                    "degrees": "DO"
+                },
+                "Liam Johnson": {
+                    "schedule": ["3:30 PM - 4:30 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "4 years",
+                    "degrees": "MD, MBBS, MSc, DNB, PhD"
+                }
+            }
+        },
+        {
+            "hospital_name": "Green Valley Medical Center",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Mia Taylor": {
+                    "schedule": ["8:00 AM - 9:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "MD, DNB"
+                },
+                "Oliver Martinez": {
+                    "schedule": ["9:00 AM - 10:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "2 years",
+                    "degrees": "MBBS"
+                },
+                "Ethan Lewis": {
+                    "schedule": ["1:00 PM - 2:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "6 years",
+                    "degrees": "PhD"
+                }
+            }
+        },
+        {
+            "hospital_name": "Sunrise Clinic",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Sophie White": {
+                    "schedule": ["10:00 AM - 11:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "3 years",
+                    "degrees": "MD, MSc"
+                },
+                "Jacob Garcia": {
+                    "schedule": ["12:00 PM - 1:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "4 years",
+                    "degrees": "DO, DNB"
+                }
+            }
+        },
+        {
+            "hospital_name": "Oakwood Hospital",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Isabella Lee": {
+                    "schedule": ["9:30 AM - 10:30 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "7 years",
+                    "degrees": "MBBS, MPhil"
+                },
+                "Mason Hall": {
+                    "schedule": ["11:00 AM - 12:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "8 years",
+                    "degrees": "MD, PhD, MSc"
+                }
+            }
+        },
+        {
+            "hospital_name": "Riverside Health Center",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Logan Young": {
+                    "schedule": ["9:00 AM - 10:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "6 years",
+                    "degrees": "MD"
+                },
+                "Ava Allen": {
+                    "schedule": ["10:00 AM - 11:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "DO, DNB"
+                }
+            }
+        },
+        {
+            "hospital_name": "Pine Valley Hospital",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Lucas Hill": {
+                    "schedule": ["11:30 AM - 12:30 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "4 years",
+                    "degrees": "MD"
+                },
+                "Charlotte Adams": {
+                    "schedule": ["1:00 PM - 2:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "3 years",
+                    "degrees": "DO, MBBS"
+                }
+            }
+        },
+        {
+            "hospital_name": "Maple Leaf Clinic",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Chloe Wright": {
+                    "schedule": ["9:00 AM - 10:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "6 years",
+                    "degrees": "MD, MSc"
+                },
+                "Jackson Green": {
+                    "schedule": ["2:00 PM - 3:00 PM"],
+                    "image": "IconBase/IconBase/doctor.png",
+                    "experience": "7 years",
+                    "degrees": "PhD"
+                }
+            }
+        },
+        {
+            "hospital_name": "Cedar Park Hospital",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Ella Carter": {
+                    "schedule": ["10:00 AM - 11:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "3 years",
+                    "degrees": "MBBS"
+                },
+                "Liam Thompson": {
+                    "schedule": ["1:00 PM - 2:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "DO, DNB, MD"
+                }
+            }
+        },
+        {
+            "hospital_name": "Springfield Medical Center",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "William Martinez": {
+                    "schedule": ["8:30 AM - 9:30 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "4 years",
+                    "degrees": "MD, MPhil"
+                },
+                "Grace Lee": {
+                    "schedule": ["10:30 AM - 11:30 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "6 years",
+                    "degrees": "MBBS, DNB"
+                }
+            }
+        },
+        {
+            "hospital_name": "Valley View Hospital",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Scarlett Hill": {
+                    "schedule": ["9:00 AM - 10:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "MD"
+                },
+                "Benjamin King": {
+                    "schedule": ["11:00 AM - 12:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "3 years",
+                    "degrees": "DO, MSc"
+                }
+            }
+        },
+        {
+            "hospital_name": "Riverbend Clinic",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Layla Wright": {
+                    "schedule": ["9:30 AM - 10:30 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "2 years",
+                    "degrees": "MBBS"
+                },
+                "Oliver Allen": {
+                    "schedule": ["1:00 PM - 2:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "DO, MD"
+                }
+            }
+        },
+        {
+            "hospital_name": "Clearwater Medical Center",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Ella Scott": {
+                    "schedule": ["10:30 AM - 11:30 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "6 years",
+                    "degrees": "MD, DNB"
+                },
+                "Henry Campbell": {
+                    "schedule": ["1:30 PM - 2:30 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "3 years",
+                    "degrees": "MBBS"
+                }
+            }
+        },
+        {
+            "hospital_name": "Silver Oak Hospital",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Aiden Thompson": {
+                    "schedule": ["8:00 AM - 9:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "4 years",
+                    "degrees": "DO"
+                },
+                "Madison Gonzalez": {
+                    "schedule": ["10:00 AM - 11:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "MD, DNB"
+                }
+            }
+        },
+        {
+            "hospital_name": "Northlake Hospital",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Lucas Brown": {
+                    "schedule": ["9:00 AM - 10:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "3 years",
+                    "degrees": "MBBS, PhD"
+                },
+                "Zoe Reed": {
+                    "schedule": ["11:00 AM - 12:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "6 years",
+                    "degrees": "MD, MSc"
+                }
+            }
+        },
+        {
+            "hospital_name": "Southwest Clinic",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Lily Wright": {
+                    "schedule": ["10:30 AM - 11:30 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "4 years",
+                    "degrees": "DO"
+                },
+                "James King": {
+                    "schedule": ["1:00 PM - 2:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "MD, DNB"
+                }
+            }
+        },
+        {
+            "hospital_name": "Lakeside Health Center",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Mason Perez": {
+                    "schedule": ["9:00 AM - 10:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "MD, MSc"
+                },
+                "Olivia Jackson": {
+                    "schedule": ["10:30 AM - 11:30 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "6 years",
+                    "degrees": "DO"
+                }
+            }
+        },
+        {
+            "hospital_name": "Greenfield Medical Clinic",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Ella Taylor": {
+                    "schedule": ["8:30 AM - 9:30 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "7 years",
+                    "degrees": "MD"
+                },
+                "Noah Johnson": {
+                    "schedule": ["1:00 PM - 2:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "4 years",
+                    "degrees": "DO"
+                }
+            }
+        },
+        {
+            "hospital_name": "Cedar Grove Hospital",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Mia Clark": {
+                    "schedule": ["9:00 AM - 10:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "MBBS"
+                },
+                "Ethan Lee": {
+                    "schedule": ["11:00 AM - 12:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "6 years",
+                    "degrees": "MD, DNB"
+                }
+            }
+        },
+        {
+            "hospital_name": "Mountainview Hospital",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Chloe Hall": {
+                    "schedule": ["10:00 AM - 11:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "8 years",
+                    "degrees": "MD"
+                },
+                "Logan Adams": {
+                    "schedule": ["2:00 PM - 3:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "3 years",
+                    "degrees": "MBBS, MSc"
+                }
+            }
+        },
+        {
+            "hospital_name": "Brookside Community Hospital",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Sofia Wilson": {
+                    "schedule": ["9:30 AM - 10:30 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "4 years",
+                    "degrees": "MD, DNB"
+                },
+                "Alexander Young": {
+                    "schedule": ["1:00 PM - 2:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "6 years",
+                    "degrees": "DO"
+                }
+            }
+        },
+        {
+            "hospital_name": "Pinehill Clinic",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Amelia Martinez": {
+                    "schedule": ["8:00 AM - 9:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "7 years",
+                    "degrees": "MBBS"
+                },
+                "Jacob Thompson": {
+                    "schedule": ["10:30 AM - 11:30 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "MD"
+                }
+            }
+        },
+        {
+            "hospital_name": "Sunrise Health Center",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Isabella Garcia": {
+                    "schedule": ["9:00 AM - 10:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "5 years",
+                    "degrees": "DO"
+                },
+                "Liam Martinez": {
+                    "schedule": ["1:30 PM - 2:30 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "8 years",
+                    "degrees": "MD, DNB"
+                }
+            }
+        },
+        {
+            "hospital_name": "Riverside Health Services",
+            "image": "IconBase/hospital.jpg",
+            "doctors": {
+                "Ava Smith": {
+                    "schedule": ["10:00 AM - 11:00 AM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "6 years",
+                    "degrees": "MD"
+                },
+                "William Brown": {
+                    "schedule": ["2:00 PM - 3:00 PM"],
+                    "image": "IconBase/doctor.png",
+                    "experience": "4 years",
+                    "degrees": "DO"
+                }
+            }
+        } 
+    ]
+}
